@@ -1,0 +1,65 @@
+body{
+    background-image:url("https://media.istockphoto.com/id/1295385673/vector/beautiful-violet-mountain-landscape.jpg?s=612x612&w=0&k=20&c=V2zLXOT2XvvCBIjX7u1VOh0IeN9nrEhciFXGLdo04X4=");
+    /*background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    padding-top:100px;
+}
+
+.form{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: left;
+    padding: 2px 1px;
+}
+
+.form-body {
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+    margin-bottom: 4px;
+    margin-top:4px;
+}
+
+.form__input{
+    width:100%;
+    align:center;
+    /*display: flex;
+    float: column;*/
+}
+
+/*.footer{
+    text-align: center;
+}*/
+
+#heading{
+    text-align: center;
+    /*font-style: Apple Chancery;*/
+    font-family:'serif';
+    color: rgb(255, 212, 155);
+    font-weight:700;
+}
+.btn-primary{
+    margin-top:29px;
+    margin-bottom:2px;
+    border-radius: 8px;
+    background-color: blueviolet;
+    text-align:center;
+    color: rgb(255, 255, 255);
+}
+.btn-primary:hover{
+    background-color:rgb(49, 0, 98);
+    
+}
+p{
+    font-size: medium;
+}

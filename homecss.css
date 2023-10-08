@@ -1,0 +1,75 @@
+.navbar-custom{
+    background-color: #8a2be2;
+}
+.nav-link{
+    color:white;
+}
+.btn-primary{
+    background-color: rgb(255, 220, 94);
+    text-align:center;
+    color: rgb(0, 0, 0);
+}
+.btn-primary:hover{
+    background-color:rgb(163, 136, 0);
+}
+h3{
+    color:white
+}
+/* HomePage.css */
+.home-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background:url("https://w0.peakpx.com/wallpaper/641/421/HD-wallpaper-nature-summer-mare-best-mobile-nice.jpg");
+    background-size:cover;
+  }
+  
+  header {
+    color: white;
+  }
+  
+  #faqal{
+    text-align:left;
+  }
+
+  
+  .intro-section {
+    
+    font-size: large;
+    background-color: rgb(247, 227, 227);
+    border-radius: 5px;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  .benefits {
+    
+    font-size: large;
+    background-color: rgb(247, 227, 227);
+    border-radius: 5px;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  #miss{
+    font-size: xx-large ;
+  }
+  #mission{
+    font-size: larger;
+  }
+  
+  
+  .features-section {
+
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
+  footer {
+    background-color: #539f9f;
+    color: white;
+    padding-top:10px;
+
+  }
+  
